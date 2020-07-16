@@ -6,5 +6,5 @@ SRE and Ethical Hacker Enthusiast.
 
 ## About Me
 
-I really enjoy learn some new stuffs regarding security and cloud, but beyond that I also enjoy poker, gaming & sports.
+I really enjoy learn some new stuff regarding security and cloud, but beyond that I also enjoy poker, gaming & sports.
 
